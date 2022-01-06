@@ -1,7 +1,5 @@
 # 👋 Hi, I’m @lucascabralv
-- 👀 I’m interested in learning new programming languages.
-- 🌱 I’m currently learning C# and JavaScript
-- 🪄 I'm improving my skills on Java and C/C++
+
 <br></br>
 ## Learning
 <div style="display: inline_block">
