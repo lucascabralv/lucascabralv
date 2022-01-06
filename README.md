@@ -1,6 +1,5 @@
 # 👋 Hi, I’m @lucascabralv
 
-<br></br>
 ## Learning
 <div style="display: inline_block">
   <img align="center" alt="Cabral-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -18,7 +17,6 @@
   <img align="center" alt="Cabral-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Cabral-CPlusPlus" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg">
 </div>
-<br></br>
 
 ## Stats
 <div align="center">
